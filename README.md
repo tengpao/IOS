@@ -5,3 +5,4 @@ command+3小
 command+R运行
 
 command+shift+H Home键
+
